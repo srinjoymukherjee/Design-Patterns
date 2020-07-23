@@ -81,7 +81,7 @@ class Metro : public City
     }
 };
 
-//Abstract Factory
+//Factory
 class Location
 {
     public:
